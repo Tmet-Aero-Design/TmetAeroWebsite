@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TMetAeroWebsite/static/css/main.cdd85641.css",
-    "main.js": "/TMetAeroWebsite/static/js/main.ef22952a.js",
+    "main.css": "/TMetAeroWebsite/static/css/main.28e73f7d.css",
+    "main.js": "/TMetAeroWebsite/static/js/main.be7da5a8.js",
     "static/js/453.376c853c.chunk.js": "/TMetAeroWebsite/static/js/453.376c853c.chunk.js",
     "index.html": "/TMetAeroWebsite/index.html",
-    "main.cdd85641.css.map": "/TMetAeroWebsite/static/css/main.cdd85641.css.map",
-    "main.ef22952a.js.map": "/TMetAeroWebsite/static/js/main.ef22952a.js.map",
+    "main.28e73f7d.css.map": "/TMetAeroWebsite/static/css/main.28e73f7d.css.map",
+    "main.be7da5a8.js.map": "/TMetAeroWebsite/static/js/main.be7da5a8.js.map",
     "453.376c853c.chunk.js.map": "/TMetAeroWebsite/static/js/453.376c853c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cdd85641.css",
-    "static/js/main.ef22952a.js"
+    "static/css/main.28e73f7d.css",
+    "static/js/main.be7da5a8.js"
   ]
 }
