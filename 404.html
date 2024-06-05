@@ -3,12 +3,12 @@
   <head>
     <script type="text/javascript">
       (function() {
+        // Get the current pathname
         var pathname = window.location.pathname;
-        var basePath = "/";
-        
-        if (!pathname.startsWith(basePath)) {
-          var newUrl = basePath + pathname;
-          window.location.href = newUrl;
+
+        // If the current pathname is not the root, redirect to the index.html
+        if (pathname !== '/') {
+          window.location.href = '/index.html';
         }
       })();
     </script>
