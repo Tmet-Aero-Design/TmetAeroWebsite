@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TMetAeroWebsite/static/css/main.d961496a.css",
-    "main.js": "/TMetAeroWebsite/static/js/main.7d1c2fcc.js",
-    "static/js/453.376c853c.chunk.js": "/TMetAeroWebsite/static/js/453.376c853c.chunk.js",
-    "index.html": "/TMetAeroWebsite/index.html",
-    "main.d961496a.css.map": "/TMetAeroWebsite/static/css/main.d961496a.css.map",
-    "main.7d1c2fcc.js.map": "/TMetAeroWebsite/static/js/main.7d1c2fcc.js.map",
-    "453.376c853c.chunk.js.map": "/TMetAeroWebsite/static/js/453.376c853c.chunk.js.map"
+    "main.css": "/static/css/main.d961496a.css",
+    "main.js": "/static/js/main.611ff486.js",
+    "static/js/453.376c853c.chunk.js": "/static/js/453.376c853c.chunk.js",
+    "index.html": "/index.html",
+    "main.d961496a.css.map": "/static/css/main.d961496a.css.map",
+    "main.611ff486.js.map": "/static/js/main.611ff486.js.map",
+    "453.376c853c.chunk.js.map": "/static/js/453.376c853c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d961496a.css",
-    "static/js/main.7d1c2fcc.js"
+    "static/js/main.611ff486.js"
   ]
 }
