@@ -7,8 +7,12 @@
       // JavaScript redirect as a fallback
       setTimeout(function () {
         var path = window.location.pathname + window.location.search;
-        // Handle the redirect correctly
-        window.location.replace(path);
+        // Redirect to the correct path
+        if (path !== '/' && path !== '') {
+          window.location.replace('/' + path.substring(1));
+        } else {
+          window.location.replace('/');
+        }
       }, 100);
     </script>
   </head>
